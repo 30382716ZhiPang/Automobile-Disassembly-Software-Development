@@ -1,0 +1,814 @@
+fileFormatVersion: 2
+guid: fc4a05d08359c1f40adaf5b7096f25be
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: che hou gai
+    100002: chekuangjia
+    100004: chemen_01
+    100006: chemen_02
+    100008: chemen_03
+    100010: chemen_04
+    100012: chetixiaobujian_01
+    100014: chetixiaobujian_01 1
+    100016: chetixiaobujian_011
+    100018: chetixiaobujian_02
+    100020: chetixiaobujian_02 1
+    100022: chetixiaobujian_03
+    100024: chetixiaobujian_03 1
+    100026: chetixiaobujian_04
+    100028: chetixiaobujian_04 1
+    100030: chetixiaobujian_05
+    100032: chetixiaobujian_05 1
+    100034: chetixiaobujian_06
+    100036: chetixiaobujian_06 1
+    100038: chetixiaobujian_07
+    100040: chetixiaobujian_07 1
+    100042: chetixiaobujian_08
+    100044: chetixiaobujian_08 1
+    100046: chetixiaobujian_09
+    100048: chetixiaobujian_10
+    100050: chetixiaobujian_10 1
+    100052: chetixiaobujian_11
+    100054: chetixiaobujian_11 1
+    100056: chetixiaobujian_12
+    100058: chetixiaobujian_12 1
+    100060: chetixiaobujian_13
+    100062: chetixiaobujian_13 1
+    100064: chetixiaobujian_14
+    100066: chetixiaobujian_15
+    100068: chetixiaobujian_17
+    100070: chetixiaobujian_20
+    100072: chetixiaobujian_21
+    100074: chetouban
+    100076: chetouchongdiankou_02
+    100078: chetouchongdiankou_03
+    100080: chetougai
+    100082: dangban
+    100084: diban
+    100086: //RootNode
+    100088: HhouBeiXiang
+    100090: luizi_01
+    100092: luizi_02
+    100094: luizi_03
+    100096: luizi_04
+    100098: Object003
+    100100: Object004
+    100102: Object005
+    100104: qianchejia
+    100106: qinachechongdiangao
+    100108: waichejia
+    100110: youchedeng_01
+    100112: youchedeng_02
+    100114: youchedeng_03
+    100116: youchedeng_04
+    100118: youchedeng_05
+    100120: youchedeng_06
+    100122: youchedeng_07
+    100124: youchedeng_08
+    100126: youchedeng_09
+    100128: youdengke
+    100130: zuochedeng_01
+    100132: zuochedeng_02
+    100134: zuochedeng_03
+    100136: zuochedeng_05
+    100138: zuochedeng_06
+    100140: zuochedeng_07
+    100142: zuochedeng_08
+    100144: zuochedeng_09
+    100146: zuodengke
+    100148: chemen_009
+    100150: houchechongdiangai
+    100152: Object001
+    100154: Object002
+    100156: Object006
+    100158: Object007
+    100160: body_glass
+    100162: CheDeng_tex
+    100164: CheDiJia
+    100166: CheMen_BL
+    100168: CheMen_BR
+    100170: CheMen_FL
+    100172: CheMen_FR
+    100174: CheNeiKuangJia
+    100176: CheQianGai
+    100178: DianHuoKaiGuan
+    100180: HouBeiXiang
+    100182: QianCheChongDianKou
+    100184: WaiCheJia
+    100186: YiBiaoPan
+    400000: che hou gai
+    400002: chekuangjia
+    400004: chemen_01
+    400006: chemen_02
+    400008: chemen_03
+    400010: chemen_04
+    400012: chetixiaobujian_01
+    400014: chetixiaobujian_01 1
+    400016: chetixiaobujian_011
+    400018: chetixiaobujian_02
+    400020: chetixiaobujian_02 1
+    400022: chetixiaobujian_03
+    400024: chetixiaobujian_03 1
+    400026: chetixiaobujian_04
+    400028: chetixiaobujian_04 1
+    400030: chetixiaobujian_05
+    400032: chetixiaobujian_05 1
+    400034: chetixiaobujian_06
+    400036: chetixiaobujian_06 1
+    400038: chetixiaobujian_07
+    400040: chetixiaobujian_07 1
+    400042: chetixiaobujian_08
+    400044: chetixiaobujian_08 1
+    400046: chetixiaobujian_09
+    400048: chetixiaobujian_10
+    400050: chetixiaobujian_10 1
+    400052: chetixiaobujian_11
+    400054: chetixiaobujian_11 1
+    400056: chetixiaobujian_12
+    400058: chetixiaobujian_12 1
+    400060: chetixiaobujian_13
+    400062: chetixiaobujian_13 1
+    400064: chetixiaobujian_14
+    400066: chetixiaobujian_15
+    400068: chetixiaobujian_17
+    400070: chetixiaobujian_20
+    400072: chetixiaobujian_21
+    400074: chetouban
+    400076: chetouchongdiankou_02
+    400078: chetouchongdiankou_03
+    400080: chetougai
+    400082: dangban
+    400084: diban
+    400086: //RootNode
+    400088: HhouBeiXiang
+    400090: luizi_01
+    400092: luizi_02
+    400094: luizi_03
+    400096: luizi_04
+    400098: Object003
+    400100: Object004
+    400102: Object005
+    400104: qianchejia
+    400106: qinachechongdiangao
+    400108: waichejia
+    400110: youchedeng_01
+    400112: youchedeng_02
+    400114: youchedeng_03
+    400116: youchedeng_04
+    400118: youchedeng_05
+    400120: youchedeng_06
+    400122: youchedeng_07
+    400124: youchedeng_08
+    400126: youchedeng_09
+    400128: youdengke
+    400130: zuochedeng_01
+    400132: zuochedeng_02
+    400134: zuochedeng_03
+    400136: zuochedeng_05
+    400138: zuochedeng_06
+    400140: zuochedeng_07
+    400142: zuochedeng_08
+    400144: zuochedeng_09
+    400146: zuodengke
+    400148: chemen_009
+    400150: houchechongdiangai
+    400152: Object001
+    400154: Object002
+    400156: Object006
+    400158: Object007
+    400160: body_glass
+    400162: CheDeng_tex
+    400164: CheDiJia
+    400166: CheMen_BL
+    400168: CheMen_BR
+    400170: CheMen_FL
+    400172: CheMen_FR
+    400174: CheNeiKuangJia
+    400176: CheQianGai
+    400178: DianHuoKaiGuan
+    400180: HouBeiXiang
+    400182: QianCheChongDianKou
+    400184: WaiCheJia
+    400186: YiBiaoPan
+    2100000: BYD_car_board
+    2100002: BYD_car_body
+    2100004: jinshuyinse
+    2100006: BYD_wheel2
+    2100008: BYD_car_body2
+    2100010: dipandanggai
+    2100012: liseshenzi
+    2100014: glass
+    2100016: BYD_wheel
+    2100018: qianchedeng
+    2100020: yuanchedengboli
+    2100022: qianchedengboli
+    2100024: BYD_car_logo
+    2100026: 18 - Default
+    2100028: 'Material #4608'
+    2100030: BYD_glass
+    2100032: BYD_inside_door
+    2100034: BYD_Mir
+    2100036: BYD_insdie_met
+    2100038: chemen_01_mso
+    2100040: byd_logo_met_B
+    2100042: byd_logo_met
+    2100044: back_hougai_B
+    2100046: light_font_ptc_B2
+    2100048: light_font_ptc_B
+    2100050: font_met_B
+    2100052: font_met_B2
+    2100054: yugua_B
+    2100056: CheDiJia
+    2100058: chedengzhao_B
+    2100060: BYD_car_board3
+    2100062: BYD_ZuoDianNeiShi
+    2100064: BYD_ZuoDian
+    2100066: light_led_f
+    2100068: font_met_led_R
+    2100070: chedeng_PTC_W
+    2100072: BYD_met_glass
+    2100074: 03 - DefaultQianCheDeng
+    2100076: chemen_met_B
+    2300000: che hou gai
+    2300002: chekuangjia
+    2300004: chemen_01
+    2300006: chemen_02
+    2300008: chemen_03
+    2300010: chemen_04
+    2300012: chetixiaobujian_01
+    2300014: chetixiaobujian_01 1
+    2300016: chetixiaobujian_011
+    2300018: chetixiaobujian_02
+    2300020: chetixiaobujian_02 1
+    2300022: chetixiaobujian_03
+    2300024: chetixiaobujian_03 1
+    2300026: chetixiaobujian_04
+    2300028: chetixiaobujian_04 1
+    2300030: chetixiaobujian_05
+    2300032: chetixiaobujian_05 1
+    2300034: chetixiaobujian_06
+    2300036: chetixiaobujian_06 1
+    2300038: chetixiaobujian_07
+    2300040: chetixiaobujian_07 1
+    2300042: chetixiaobujian_08
+    2300044: chetixiaobujian_08 1
+    2300046: chetixiaobujian_09
+    2300048: chetixiaobujian_10
+    2300050: chetixiaobujian_10 1
+    2300052: chetixiaobujian_11
+    2300054: chetixiaobujian_11 1
+    2300056: chetixiaobujian_12
+    2300058: chetixiaobujian_12 1
+    2300060: chetixiaobujian_13
+    2300062: chetixiaobujian_13 1
+    2300064: chetixiaobujian_14
+    2300066: chetixiaobujian_15
+    2300068: chetixiaobujian_17
+    2300070: chetixiaobujian_20
+    2300072: chetixiaobujian_21
+    2300074: chetouban
+    2300076: chetouchongdiankou_02
+    2300078: chetouchongdiankou_03
+    2300080: chetougai
+    2300082: dangban
+    2300084: diban
+    2300086: HhouBeiXiang
+    2300088: luizi_01
+    2300090: luizi_02
+    2300092: luizi_03
+    2300094: luizi_04
+    2300096: Object003
+    2300098: Object004
+    2300100: Object005
+    2300102: qianchejia
+    2300104: qinachechongdiangao
+    2300106: waichejia
+    2300108: youchedeng_01
+    2300110: youchedeng_02
+    2300112: youchedeng_03
+    2300114: youchedeng_04
+    2300116: youchedeng_05
+    2300118: youchedeng_06
+    2300120: youchedeng_07
+    2300122: youchedeng_08
+    2300124: youchedeng_09
+    2300126: youdengke
+    2300128: zuochedeng_01
+    2300130: zuochedeng_02
+    2300132: zuochedeng_03
+    2300134: zuochedeng_05
+    2300136: zuochedeng_06
+    2300138: zuochedeng_07
+    2300140: zuochedeng_08
+    2300142: zuochedeng_09
+    2300144: zuodengke
+    2300146: chemen_009
+    2300148: houchechongdiangai
+    2300150: Object001
+    2300152: Object002
+    2300154: Object006
+    2300156: Object007
+    2300158: body_glass
+    2300160: CheDeng_tex
+    2300162: CheDiJia
+    2300164: CheMen_BL
+    2300166: CheMen_BR
+    2300168: CheMen_FL
+    2300170: CheMen_FR
+    2300172: CheNeiKuangJia
+    2300174: CheQianGai
+    2300176: DianHuoKaiGuan
+    2300178: HouBeiXiang
+    2300180: QianCheChongDianKou
+    2300182: WaiCheJia
+    2300184: YiBiaoPan
+    3300000: che hou gai
+    3300002: chekuangjia
+    3300004: chemen_01
+    3300006: chemen_02
+    3300008: chemen_03
+    3300010: chemen_04
+    3300012: chetixiaobujian_01
+    3300014: chetixiaobujian_01 1
+    3300016: chetixiaobujian_011
+    3300018: chetixiaobujian_02
+    3300020: chetixiaobujian_02 1
+    3300022: chetixiaobujian_03
+    3300024: chetixiaobujian_03 1
+    3300026: chetixiaobujian_04
+    3300028: chetixiaobujian_04 1
+    3300030: chetixiaobujian_05
+    3300032: chetixiaobujian_05 1
+    3300034: chetixiaobujian_06
+    3300036: chetixiaobujian_06 1
+    3300038: chetixiaobujian_07
+    3300040: chetixiaobujian_07 1
+    3300042: chetixiaobujian_08
+    3300044: chetixiaobujian_08 1
+    3300046: chetixiaobujian_09
+    3300048: chetixiaobujian_10
+    3300050: chetixiaobujian_10 1
+    3300052: chetixiaobujian_11
+    3300054: chetixiaobujian_11 1
+    3300056: chetixiaobujian_12
+    3300058: chetixiaobujian_12 1
+    3300060: chetixiaobujian_13
+    3300062: chetixiaobujian_13 1
+    3300064: chetixiaobujian_14
+    3300066: chetixiaobujian_15
+    3300068: chetixiaobujian_17
+    3300070: chetixiaobujian_20
+    3300072: chetixiaobujian_21
+    3300074: chetouban
+    3300076: chetouchongdiankou_02
+    3300078: chetouchongdiankou_03
+    3300080: chetougai
+    3300082: dangban
+    3300084: diban
+    3300086: HhouBeiXiang
+    3300088: luizi_01
+    3300090: luizi_02
+    3300092: luizi_03
+    3300094: luizi_04
+    3300096: Object003
+    3300098: Object004
+    3300100: Object005
+    3300102: qianchejia
+    3300104: qinachechongdiangao
+    3300106: waichejia
+    3300108: youchedeng_01
+    3300110: youchedeng_02
+    3300112: youchedeng_03
+    3300114: youchedeng_04
+    3300116: youchedeng_05
+    3300118: youchedeng_06
+    3300120: youchedeng_07
+    3300122: youchedeng_08
+    3300124: youchedeng_09
+    3300126: youdengke
+    3300128: zuochedeng_01
+    3300130: zuochedeng_02
+    3300132: zuochedeng_03
+    3300134: zuochedeng_05
+    3300136: zuochedeng_06
+    3300138: zuochedeng_07
+    3300140: zuochedeng_08
+    3300142: zuochedeng_09
+    3300144: zuodengke
+    3300146: chemen_009
+    3300148: houchechongdiangai
+    3300150: Object001
+    3300152: Object002
+    3300154: Object006
+    3300156: Object007
+    3300158: body_glass
+    3300160: CheDeng_tex
+    3300162: CheDiJia
+    3300164: CheMen_BL
+    3300166: CheMen_BR
+    3300168: CheMen_FL
+    3300170: CheMen_FR
+    3300172: CheNeiKuangJia
+    3300174: CheQianGai
+    3300176: DianHuoKaiGuan
+    3300178: HouBeiXiang
+    3300180: QianCheChongDianKou
+    3300182: WaiCheJia
+    3300184: YiBiaoPan
+    4300000: youdengke
+    4300002: zuodengke
+    4300004: chemen_04
+    4300006: chemen_03
+    4300008: chemen_02
+    4300010: chemen_01
+    4300012: qinachechongdiangao
+    4300014: chekuangjia
+    4300016: chetouban
+    4300018: chetougai
+    4300020: qianchejia
+    4300022: dangban
+    4300024: waichejia
+    4300026: diban
+    4300028: chetixiaobujian_14
+    4300030: chetixiaobujian_13
+    4300032: chetixiaobujian_12
+    4300034: chetixiaobujian_11
+    4300036: chetixiaobujian_10
+    4300038: chetixiaobujian_09
+    4300040: chetixiaobujian_08
+    4300042: chetixiaobujian_07
+    4300044: chetixiaobujian_06
+    4300046: chetixiaobujian_05
+    4300048: chetixiaobujian_04
+    4300050: chetixiaobujian_03
+    4300052: chetixiaobujian_02
+    4300054: chetixiaobujian_01
+    4300056: chetouchongdiankou_03
+    4300058: chetouchongdiankou_02
+    4300060: chetixiaobujian_13
+    4300062: chetixiaobujian_12
+    4300064: chetixiaobujian_11
+    4300066: chetixiaobujian_10
+    4300068: chetixiaobujian_08
+    4300070: chetixiaobujian_07
+    4300072: chetixiaobujian_06
+    4300074: chetixiaobujian_05
+    4300076: chetixiaobujian_04
+    4300078: chetixiaobujian_03
+    4300080: chetixiaobujian_011
+    4300082: chetixiaobujian_21
+    4300084: chetixiaobujian_20
+    4300086: chetixiaobujian_17
+    4300088: chetixiaobujian_15
+    4300090: chetixiaobujian_02
+    4300092: chetixiaobujian_01
+    4300094: luizi_04
+    4300096: luizi_03
+    4300098: luizi_02
+    4300100: luizi_01
+    4300102: youchedeng_09
+    4300104: youchedeng_08
+    4300106: youchedeng_07
+    4300108: youchedeng_06
+    4300110: youchedeng_05
+    4300112: youchedeng_04
+    4300114: youchedeng_03
+    4300116: youchedeng_02
+    4300118: youchedeng_01
+    4300120: zuochedeng_09
+    4300122: zuochedeng_08
+    4300124: zuochedeng_07
+    4300126: zuochedeng_06
+    4300128: zuochedeng_05
+    4300130: zuochedeng_03
+    4300132: zuochedeng_02
+    4300134: zuochedeng_01
+    4300136: che hou gai
+    4300138: Object003
+    4300140: Object004
+    4300142: HhouBeiXiang
+    4300144: Object005
+    4300146: houchechongdiangai
+    4300148: chemen_009
+    4300150: Object001
+    4300152: Object002
+    4300154: Object006
+    4300156: Object007
+    4300158: QianCheChongDianKou
+    4300160: CheNeiKuangJia
+    4300162: CheQianGai
+    4300164: WaiCheJia
+    4300166: CheDiJia
+    4300168: CheDeng_tex
+    4300170: DianHuoKaiGuan
+    4300172: HouBeiXiang
+    4300174: CheMen_FL
+    4300176: CheMen_FR
+    4300178: CheMen_BR
+    4300180: CheMen_BL
+    4300182: body_glass
+    4300184: YiBiaoPan
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 18 - Default
+    second: {fileID: 2100000, guid: d6076b0c3dec25b45a713c7b7b4219b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BYD_Mir
+    second: {fileID: 2100000, guid: 995cf6819fda0264bb1f5cc3d9bcc2a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BYD_ZuoDian
+    second: {fileID: 2100000, guid: 85ea401a30979a44b91c415885f50723, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BYD_ZuoDianNeiShi
+    second: {fileID: 2100000, guid: f6b7a33b65e44334696999c2c7daa924, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BYD_car_board
+    second: {fileID: 2100000, guid: 2d13d761de74de94a83364fe1f68d162, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BYD_car_board3
+    second: {fileID: 2100000, guid: 042fef5d92581e74993dbd9b92446658, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BYD_car_body
+    second: {fileID: 2100000, guid: e0105f61dbca8384291e949fcaa37714, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BYD_car_body2
+    second: {fileID: 2100000, guid: e0105f61dbca8384291e949fcaa37714, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BYD_car_light
+    second: {fileID: 2100000, guid: 3565572276cba3a459fd68f7c7fc21a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BYD_car_logo
+    second: {fileID: 2100000, guid: e0105f61dbca8384291e949fcaa37714, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BYD_glass
+    second: {fileID: 2100000, guid: 070533e71f4bf8d48859d79ec23c3c3c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BYD_insdie_met
+    second: {fileID: 2100000, guid: 78477ca6e183bb54c98bb4a62b81b363, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BYD_inside_door
+    second: {fileID: 2100000, guid: 7361a68a406baa045969afac02bdd146, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BYD_met_glass
+    second: {fileID: 2100000, guid: 5dd18e17129b63b41b9281ea56bb4660, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BYD_wheel
+    second: {fileID: 2100000, guid: faa09296f505d614c8a7bb9e94d45a1c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BYD_wheel2
+    second: {fileID: 2100000, guid: 8a71c05583051ee4f89662bc032a23e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CheDiJia
+    second: {fileID: 2100000, guid: ae82046808e04f740a468adf522d0cef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #4608'
+    second: {fileID: 2100000, guid: 8a7cca840b865f242a5343da998ee822, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: back_hougai_B
+    second: {fileID: 2100000, guid: 715474e318f3a31419bf72051daada4d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: byd_logo_met
+    second: {fileID: 2100000, guid: 94513ab1f410ee14ca0f54cc92ab487a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: byd_logo_met_B
+    second: {fileID: 2100000, guid: f197be6f783fdae4d8ab345477c17807, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chedeng_PTC_W
+    second: {fileID: 2100000, guid: 433a64ac7abed8e42bd60b1866625d19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chedengzhao_B
+    second: {fileID: 2100000, guid: fd1dd91d54f36834dbf344daedd353d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chemen_01_mso
+    second: {fileID: 2100000, guid: 96339b08ea0e28c4782e4997e108bb8c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dipandanggai
+    second: {fileID: 2100000, guid: 804775778a80e2d45997dda6c5a338cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: font_met_B
+    second: {fileID: 2100000, guid: a25268feff663944ea415b04dabca6b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: font_met_B2
+    second: {fileID: 2100000, guid: 5e4a4ca5ef113da43ba0c6ff6cf47fe6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: font_met_led_R
+    second: {fileID: 2100000, guid: b40216f214bbacf4d851d0cd002ca82b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass
+    second: {fileID: 2100000, guid: ae5d3a4ae1647f148a281d16a48eea8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jinshuyinse
+    second: {fileID: 2100000, guid: 342f811266470994099e300bb35f6612, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: light_font_ptc_B
+    second: {fileID: 2100000, guid: 45d25298a20229e46be47b52d43bb668, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: light_font_ptc_B2
+    second: {fileID: 2100000, guid: 2cc7cbacbdf76154da8b7186d01a882a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: light_led_f
+    second: {fileID: 2100000, guid: ddf8a384aec6b5542aaf00386472ed7a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: liseshenzi
+    second: {fileID: 2100000, guid: 4f98d09ea44e96240a74f951ed5ed498, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: qianchedeng
+    second: {fileID: 2100000, guid: a269bd1cf55d83c4d85eff7ff3dba626, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: qianchedengboli
+    second: {fileID: 2100000, guid: a269bd1cf55d83c4d85eff7ff3dba626, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: yuanchedengboli
+    second: {fileID: 2100000, guid: 147feeb8aabcca94ba8e162f1095974d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: yugua_B
+    second: {fileID: 2100000, guid: e771706d3f83c78459a9c550f6bf976f, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: car_byd
+    second: {fileID: 2800000, guid: 6bdfca0be65ab5545b5d85dd921e9b09, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: car_byd1
+    second: {fileID: 2800000, guid: 785291a742acf484e856f19c6f201f3f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: light
+    second: {fileID: 2800000, guid: 1e398d67b3925ce4d93f2685030bd87a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: lunzi
+    second: {fileID: 2800000, guid: 1ffdac935b92a1e48a75c38159f01ca6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: yanse
+    second: {fileID: 2800000, guid: 481641a0dacc347429298862906833e6, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

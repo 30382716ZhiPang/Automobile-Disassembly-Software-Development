@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/MRTK/Services/SceneSystem/SceneSystemResources/DefaultManagerScene.unity
+    guid: ae7bb08d297fb69408695d8de0962524
+  - enabled: 1
+    path: Assets/MRTK/Services/SceneSystem/SceneSystemResources/DefaultLightingScene.unity
+    guid: 7e54e36c44f826c438c95da79f8de638
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: ff564cc3bc3ae134a89ee27282ecffc6, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: f3bef92e82569c54bb0145f44e45b542, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: f7eba2554df4fc141b00ceb055f674f6, type: 2}

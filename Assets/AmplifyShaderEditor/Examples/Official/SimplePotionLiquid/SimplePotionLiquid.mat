@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SimplePotionLiquid
+  m_Shader: {fileID: 4800000, guid: 6817c1e78594eb1488b951ed9322ab1e, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 2450
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - <noninit>:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Albedo:
+        m_Texture: {fileID: 2800000, guid: bea7fa376f932ba419f3d1fc95bd1a2b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Burnt_normals:
+        m_Texture: {fileID: 2800000, guid: e9742c575b8f4644fb9379e7347ff62e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Emission:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Foam:
+        m_Texture: {fileID: 2800000, guid: d01457b88b1c5174ea4235d140b5fab8, type: 3}
+        m_Scale: {x: 27, y: 27}
+        m_Offset: {x: 0, y: 0}
+    - _Metallic:
+        m_Texture: {fileID: 2800000, guid: cd460ee4ac5c1e746b7a734cc7cc64dd, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Normal:
+        m_Texture: {fileID: 2800000, guid: dd2fd2df93418444c8e280f1d34deeb5, type: 3}
+        m_Scale: {x: 12, y: 12}
+        m_Offset: {x: 0, y: 0}
+    - _Normal2:
+        m_Texture: {fileID: 2800000, guid: 24e31ecbf813d9e49bf7a1e0d4034916, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample0:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _WaterNormal:
+        m_Texture: {fileID: 2800000, guid: dd2fd2df93418444c8e280f1d34deeb5, type: 3}
+        m_Scale: {x: 3, y: 3}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - <noninit>: 0
+    - _Distortion: 0.2
+    - _EmissionLevel: 0
+    - _Falloff: 0.018
+    - _Faloff: 0.02
+    - _Float0: -0.01
+    - _FoamDepth: 0.927
+    - _FoamFalloff: -60
+    - _FoamSmoothness: 9
+    - _FoamSpecular: 0
+    - _Height: 1.5
+    - _MetallicLevel: 1
+    - _NormalLevel: 1
+    - _NormalScale: 0.07
+    - _Opacity: 0.18
+    - _Size: 0.025
+    - _SmoothLevel: 0.71
+    - _Speed: 7.88
+    - _TessValue: 16
+    - _WaterDepth: 0.27
+    - _WaterFalloff: 0.09
+    - _WaterSmoothness: 9
+    - _WaterSpecular: -1.85
+    - _WavesAmount: 8.87
+    - _WavesAmplitude: 0.1
+    - __dirty: 0
+    m_Colors:
+    - <noninit>: {r: 0, g: 1.4264235e-33, b: 0, a: 1.4264176e-33}
+    - _Alb: {r: 0, g: 0, b: 0, a: 0}
+    - _Albed: {r: 0, g: 0, b: 0, a: 0}
+    - _Albedo: {r: 0, g: 0, b: 0, a: 0}
+    - _AlbedoC: {r: 0, g: 0, b: 0, a: 0}
+    - _AlbedoColor: {r: 0.26922393, g: 0.35884368, b: 0.4716981, a: 1}
+    - _Albedoc: {r: 0, g: 0, b: 0, a: 0}
+    - _BaseColor: {r: 0.8602941, g: 0.025302794, b: 0.025302794, a: 1}
+    - _Color: {r: 1, g: 0, b: 0, a: 0}
+    - _Color0: {r: 0, g: 0, b: 0, a: 0}
+    - _DeepColor: {r: 0.0501513, g: 0.10684371, b: 0.21698111, a: 1}
+    - _ShalowColor: {r: 0.33397114, g: 0.89250284, b: 0.8962264, a: 1}
+    - _SmoothColor: {r: 0.5029815, g: 0.72067493, b: 0.8396226, a: 1}
+    - _TopColor: {r: 0.9459999, g: 0.098209865, b: 0.026487997, a: 1}
